@@ -1,0 +1,11 @@
+{
+  "title": "김덕진의 AI 작업 기록",
+  "description": "대화가 작업이 되고, 일상이 바뀌다. 김덕진이 AI와 함께 만든 게임, 영상, 업무 도구와 에이전트 실험의 과정과 결과를 기록합니다.",
+  "author": "김덕진",
+  "url": "https://socialkim.github.io/dukjin-ai-chronicle/",
+  "repository": "https://github.com/socialkim/dukjin-ai-chronicle",
+  "published": "2026-10-02",
+  "evidenceThrough": "2026-10-01",
+  "categories": ["가족과 창작", "방송과 게임", "업무와 도구", "에이전트 실험"],
+  "featured": ["suchan-rhythm", "solbit-farm", "context-cut", "slack-agent"]
+}

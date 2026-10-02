@@ -1,0 +1,15 @@
+{
+  "name": "dukjin-ai-chronicle",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "김덕진의 AI 작업 기록 — 만드는 과정과 변화가 쌓이는 공개 아카이브",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "check": "node scripts/check.mjs",
+    "test": "node scripts/build.mjs && node scripts/check.mjs",
+    "dev": "node scripts/build.mjs && node scripts/serve.mjs",
+    "new": "node scripts/new-entry.mjs"
+  },
+  "engines": { "node": ">=22" }
+}

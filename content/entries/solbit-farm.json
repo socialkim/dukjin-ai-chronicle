@@ -1,0 +1,72 @@
+{
+  "id": "solbit-farm",
+  "title": "솔빛농장, 방송을 위한 게임으로 고치다",
+  "date": "2026-09-09",
+  "dateLabel": "2026.09.09 → 09.24",
+  "updated": "2026-10-02",
+  "published": true,
+  "category": "방송과 게임",
+  "summary": "농사를 짓는 게임에서 방송판으로. 인물 사진, 자동 운영, 시연 중 발견한 문제까지 고치고 제작 과정을 다시 콘텐츠로 남겼다.",
+  "tools": [
+    "ChatGPT Work",
+    "웹 게임",
+    "영상·발표자료"
+  ],
+  "cover": "solbit-farm.webp",
+  "status": "플레이 가능",
+  "sections": [
+    {
+      "heading": "목적이 기능을 바꾸었다",
+      "paragraphs": [
+        "밭을 갈고 작물을 기르고, 두더쥐로부터 지키고, 수확물을 판매해 농장과 도구를 키우는 게임으로 시작했다. 이후 안대표와 이프로의 사진을 넣어 방송판을 만들었다."
+      ]
+    },
+    {
+      "heading": "방송하면서 보여 줄 수 있게",
+      "paragraphs": [
+        "농사만 자동으로 할지, 판매와 업그레이드까지 자동으로 할지 나누었다. 두더쥐 등장 빈도를 조정하고, 퇴치 뒤에도 남아 있던 배너를 지우도록 수정했다. 써보면서 생기는 불편을 다음 요구로 바꾼 것이다."
+      ]
+    },
+    {
+      "heading": "게임 하나가 여러 설명 자료로 이어지다",
+      "paragraphs": [
+        "제작 과정은 38장 발표자료와 60초 영상으로 정리되었다는 기록이 있고, 이후 별도의 제작 이야기 사이트로도 이어졌다. 결과를 만들고 끝내기보다 다음 설명의 재료로 활용했다."
+      ]
+    }
+  ],
+  "milestones": [
+    {
+      "date": "09.09",
+      "text": "농장 게임에서 인물과 자동 운영 옵션을 갖춘 방송판으로 확장"
+    },
+    {
+      "date": "09.09 이후",
+      "text": "실제 시연에 필요한 기능과 배너 동작 수정"
+    },
+    {
+      "date": "09.24",
+      "text": "게임 제작 과정과 자료를 웹사이트로 정리"
+    }
+  ],
+  "links": [
+    {
+      "label": "방송판 플레이",
+      "url": "https://solbit-farm-show.socialkim.chatgpt.site/",
+      "access": "public"
+    },
+    {
+      "label": "오리지널 농장",
+      "url": "https://solbit-farm.socialkim.chatgpt.site/",
+      "access": "public"
+    },
+    {
+      "label": "제작 이야기 보기",
+      "url": "https://solbit-farm-story.socialkim.chatgpt.site/",
+      "access": "public"
+    }
+  ],
+  "media": [
+    "solbit-farm"
+  ],
+  "note": "자동 농사는 게임에 구현된 동작이다. AI 모델이 매 순간 판단하며 계속 플레이하는 기능이라는 뜻은 아니다."
+}

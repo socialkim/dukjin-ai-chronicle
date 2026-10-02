@@ -1,0 +1,122 @@
+[
+  {
+    "id": "first-film",
+    "type": "video",
+    "title": "첫 번째 리듬 대결",
+    "src": "assets/videos/first-battle-32s.mp4",
+    "poster": "first-concept.webp",
+    "duration": "32초",
+    "caption": "그림을 움직임과 소리로 연결한 첫 애니메이션. 실제로 조작하는 게임의 화면은 아니다.",
+    "project": "suchan-rhythm"
+  },
+  {
+    "id": "extended-film",
+    "type": "video",
+    "title": "아이의 피드백을 반영한 확장판",
+    "src": "assets/videos/extended-battle-64s.mp4",
+    "poster": "extended-video.webp",
+    "duration": "64초",
+    "caption": "한 손 공격, 휴식과 연타, 서로 다른 음색과 경고 표시를 반영한 애니메이션.",
+    "project": "suchan-rhythm"
+  },
+  {
+    "id": "gameplay",
+    "type": "video",
+    "title": "실제 게임 엔진으로 보는 플레이",
+    "src": "assets/videos/gameplay-36s.mp4",
+    "poster": "meta-bot.webp",
+    "duration": "36초",
+    "caption": "감상·촬영용 봇 리플레이. 사람의 직접 플레이 성적과 구분된다.",
+    "project": "suchan-rhythm"
+  },
+  {
+    "id": "trailer",
+    "type": "video",
+    "title": "수찬이의 상상에서 시작된 60초",
+    "src": "assets/videos/trailer-60s.mp4",
+    "poster": "creation-history.webp",
+    "duration": "60초",
+    "caption": "공개 게임을 소개하기 위해 만든 트레일러. 원래 제작 기록에서도 함께 볼 수 있다.",
+    "project": "suchan-rhythm"
+  },
+  {
+    "id": "first-concept",
+    "type": "image",
+    "title": "푸나폰의 첫 콘셉트",
+    "src": "assets/images/first-concept.webp",
+    "caption": "아이의 음성 설명을 바탕으로 만든 원본 이미지. 그림 속 게임 장면은 이후 구현한 실제 게임과 구분된다.",
+    "project": "suchan-rhythm"
+  },
+  {
+    "id": "rhythm-home",
+    "type": "image",
+    "title": "리듬 원정대의 현재 모습",
+    "src": "assets/images/rhythm-home.webp",
+    "caption": "세 챕터와 캐릭터 선택, 봇 모드가 있는 공개 게임 화면. 2026.10.01 캡처.",
+    "project": "suchan-rhythm"
+  },
+  {
+    "id": "creation-history",
+    "type": "image",
+    "title": "만드는 과정도 하나의 웹사이트로",
+    "src": "assets/images/creation-history.webp",
+    "caption": "이미지·영상·게임과 다음 날 업데이트를 연결한 제작 히스토리. 2026.10.01 캡처.",
+    "project": "suchan-rhythm"
+  },
+  {
+    "id": "meta-bot",
+    "type": "image",
+    "title": "메타 푸나폰과의 대결",
+    "src": "assets/images/meta-bot.webp",
+    "caption": "실제 게임 엔진에서 기록한 봇 플레이 장면. 사람의 최고 점수 인증 화면이 아니다.",
+    "project": "suchan-rhythm"
+  },
+  {
+    "id": "solbit-farm",
+    "type": "image",
+    "title": "솔빛농장 방송판",
+    "src": "assets/images/solbit-farm.webp",
+    "caption": "인물 사진과 자동 운영 옵션을 반영한 실제 공개 게임. 2026.10.01 캡처.",
+    "project": "solbit-farm"
+  },
+  {
+    "id": "futsal",
+    "type": "image",
+    "title": "최욱 무적 풋살 시작 화면",
+    "src": "assets/images/futsal.webp",
+    "caption": "직접 플레이·자동 중계가 있는 패러디 풋살 게임. 2026.10.01 캡처.",
+    "project": "futsal-arena"
+  },
+  {
+    "id": "voyage",
+    "type": "image",
+    "title": "박정호호의 모험",
+    "src": "assets/images/voyage.webp",
+    "caption": "방향키로 조작하는 경제 항해 게임의 시작 화면. 배경 흐림은 원래 화면의 연출이다.",
+    "project": "park-voyage"
+  },
+  {
+    "id": "context-cut",
+    "type": "image",
+    "title": "Context Cut의 Windows 프로토타입",
+    "src": "assets/images/context-cut.webp",
+    "caption": "PC에서 남긴 실제 실행 검증 화면. MacBook 후속 버전의 화면은 아니다.",
+    "project": "context-cut"
+  },
+  {
+    "id": "cookie-v1",
+    "type": "image",
+    "title": "이전 쿠키 게임의 플레이 화면",
+    "src": "assets/images/cookie-v1.webp",
+    "caption": "이전 강연 자료에 보관된 실제 게임 화면.",
+    "project": "cookie-adventure"
+  },
+  {
+    "id": "cookie-v2",
+    "type": "image",
+    "title": "쿠키 게임의 다음 버전",
+    "src": "assets/images/cookie-v2.webp",
+    "caption": "아이의 수정 의견을 반영하며 발전시킨 게임의 보관 화면.",
+    "project": "cookie-adventure"
+  }
+]

@@ -1,0 +1,42 @@
+{
+  "id": "futsal-arena",
+  "title": "최욱 무적 풋살, 설명에 시연을 더하다",
+  "date": "2026-09-08",
+  "dateLabel": "2026.09.08 · 사이트 생성일",
+  "updated": "2026-10-02",
+  "published": true,
+  "category": "방송과 게임",
+  "summary": "최욱 FC와 눈치 FC, 직접 플레이와 자동 중계. 방송에서 익숙한 인물과 분위기를 게임의 설정으로 바꾸었다.",
+  "tools": [
+    "ChatGPT Work",
+    "3D 웹 게임"
+  ],
+  "cover": "futsal.webp",
+  "status": "플레이 가능",
+  "sections": [
+    {
+      "heading": "기술 설명의 재료를 직접 만들다",
+      "paragraphs": [
+        "AI가 어떤 것을 할 수 있는지 말로만 설명하기보다 청중에게 익숙한 주제로 직접 만들어 보았다. 패러디 캐리커처와 팀 설정을 가진 풋살 게임에 수동 플레이와 자동 중계를 함께 넣었다."
+      ]
+    },
+    {
+      "heading": "직접 조작하기와 구경하기",
+      "paragraphs": [
+        "방송에서 이야기하는 동안 게임을 계속 조작하기는 어렵다. 자동 중계와 시연 옵션은 보여 주는 상황을 고려한 기능이다. 게임 안의 자동 동작과 AI 에이전트의 업무 수행은 다른 기능으로 설명한다."
+      ]
+    }
+  ],
+  "milestones": [],
+  "links": [
+    {
+      "label": "풋살 아레나 열기",
+      "url": "https://choi-wook-futsal.socialkim.chatgpt.site/",
+      "access": "public"
+    }
+  ],
+  "media": [
+    "futsal"
+  ],
+  "note": "패러디 창작물이다. 관련 인물·방송사의 공식 서비스라는 의미가 아니다. 사이트 생성일을 방송일로 표시하지 않았다."
+}

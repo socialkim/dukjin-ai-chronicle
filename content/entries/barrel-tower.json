@@ -1,0 +1,34 @@
+{
+  "id": "barrel-tower",
+  "title": "배럴 타워 3D, 새 게임으로 이어진 실험",
+  "date": "2026-10-01",
+  "dateLabel": "2026.10.01 · 사이트 생성일",
+  "updated": "2026-10-02",
+  "published": true,
+  "category": "방송과 게임",
+  "summary": "쌓인 제작 경험은 다음 작품으로 이어졌다. 오르기와 점프, 충돌 판정이 있는 3D 타워 게임을 만들었다.",
+  "tools": [
+    "ChatGPT Work",
+    "3D 웹 게임"
+  ],
+  "cover": "",
+  "status": "작품 링크 공개",
+  "sections": [
+    {
+      "heading": "기록을 끝내지 않는 이유",
+      "paragraphs": [
+        "새로운 형태를 시도할 때 앞선 게임의 설계와 수정 경험이 다음 요청의 기준이 된다. 완성된 화면뿐 아니라 어떤 요구를 했고 다음에 무엇을 고쳤는지 계속 남길 예정이다."
+      ]
+    }
+  ],
+  "milestones": [],
+  "links": [
+    {
+      "label": "배럴 타워 3D 열기",
+      "url": "https://barrel-tower-3d.socialkim.chatgpt.site/",
+      "access": "public"
+    }
+  ],
+  "media": [],
+  "note": "사이트 생성 기록과 제작 완료 응답을 확인했다. 모든 조작과 특정 방송 송출 여부를 전수 검증했다는 의미는 아니다."
+}

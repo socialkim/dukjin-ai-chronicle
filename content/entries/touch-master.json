@@ -1,0 +1,34 @@
+{
+  "id": "touch-master",
+  "title": "TOUCH MASTER, 손으로 해보며 고치다",
+  "date": "2026-09-25",
+  "dateLabel": "2026.09.25 · 사이트 생성일",
+  "updated": "2026-10-02",
+  "published": true,
+  "category": "방송과 게임",
+  "summary": "축구 소재의 터치 게임. 조작과 난이도, 헤딩과 가슴 트래핑, 콤보 연출을 직접 확인하며 수정했다.",
+  "tools": [
+    "ChatGPT Work",
+    "웹 게임"
+  ],
+  "cover": "",
+  "status": "작품 링크 공개",
+  "sections": [
+    {
+      "heading": "플레이의 느낌은 써보아야 알 수 있다",
+      "paragraphs": [
+        "터치 반응과 난이도를 고치고, 헤딩과 가슴 트래핑, 10콤보의 특별한 킥 연출까지 수정 요청을 이어 갔다. 결과를 보고 다음 조건을 말하는 방식이 실제 게임 조작에서도 반복됐다."
+      ]
+    }
+  ],
+  "milestones": [],
+  "links": [
+    {
+      "label": "노승헌 TOUCH MASTER 열기",
+      "url": "https://seungheon-touch-master.socialkim.chatgpt.site/",
+      "access": "public"
+    }
+  ],
+  "media": [],
+  "note": "작품명 속 노승헌은 아들 수찬과 다른 인물이다. 특정 방송의 송출 이력으로 분류하지 않았다."
+}

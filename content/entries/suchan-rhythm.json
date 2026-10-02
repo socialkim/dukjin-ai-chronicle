@@ -1,0 +1,108 @@
+{
+  "id": "suchan-rhythm",
+  "title": "아들의 한마디가 그림, 영상, 게임이 되다",
+  "date": "2026-09-24",
+  "dateLabel": "2026.09.24 → 09.29",
+  "updated": "2026-10-02",
+  "published": true,
+  "category": "가족과 창작",
+  "summary": "노란 호박 얼굴의 해적 푸나폰. 아이가 말한 캐릭터는 두 편의 영상과 실제 게임, 웹사이트가 되었고 다음 날 새로운 규칙을 받아 업데이트됐다.",
+  "tools": [
+    "ChatGPT Work",
+    "Codex",
+    "이미지·영상·웹 게임"
+  ],
+  "cover": "first-concept.webp",
+  "status": "플레이 가능",
+  "sections": [
+    {
+      "heading": "첫 입력은 완성된 기획서가 아니었다",
+      "paragraphs": [
+        "해적 모자, 노란 호박 얼굴, 두 갈고리, 한쪽은 나무이고 다른 쪽은 금인 다리. 아이는 떠올린 모습을 말로 설명했다. 그림이 나오자 갈고리가 늘어나 공격하는 모습도 요청했다."
+      ]
+    },
+    {
+      "heading": "“어렵게”를 다시 설명하는 과정",
+      "paragraphs": [
+        "처음에는 32초짜리 리듬 대결 영상을 만들었다. 아이는 어렵다는 말이 입력 속도를 뜻한다고 설명했고, 서로 다른 목소리, 한 손 공격, 휴식과 연타, 공격 전 느낌표를 요청했다. 그 피드백이 64초 확장판의 움직임과 소리를 바꿨다."
+      ]
+    },
+    {
+      "heading": "기록을 넘기면 다음 작업이 이어진다",
+      "paragraphs": [
+        "그림과 영상, 수정 과정을 웹사이트로 남기고 이전 대화와 함께 Codex에 전달했다. 아이가 캐릭터 선택, 별 난도, HP, 게임 오버와 재도전 규칙을 설명하자 실제로 조작할 수 있는 게임으로 이어졌다."
+      ]
+    },
+    {
+      "heading": "다음 날에는 아이가 업데이트를 주문했다",
+      "paragraphs": [
+        "캐릭터별 노트 문양, 엄청 어려움 모드의 함정, 감상·촬영용 봇 플레이, 엔딩과 챕터 잠금 해제 규칙을 더했다. 세 챕터, 열다섯 캐릭터, 네 가지 선택 난이도로 발전했다. 봇의 플레이는 직접 도전한 기록과 잠금 해제에 포함하지 않는다."
+      ]
+    },
+    {
+      "heading": "함께 만든다는 것의 의미",
+      "paragraphs": [
+        "아이의 역할은 결과를 평가하고 다음 요구를 말하는 것이었다. 나는 자료와 도구를 연결하고 공개할 방법을 정했다. AI는 캐릭터와 구현 방법을 제안하고 실제 파일을 만들었다. 첫날을 하루 안에 경험했다는 회고와, 이후 추가 개발의 기간을 함께 기록한다."
+      ]
+    }
+  ],
+  "milestones": [
+    {
+      "date": "09.24 · 그림",
+      "text": "음성 설명에서 푸나폰 콘셉트와 공격 동작 그림 제작"
+    },
+    {
+      "date": "09.24 · 영상",
+      "text": "32초 대결 영상 → 피드백을 반영한 64초 확장판"
+    },
+    {
+      "date": "09.24 · 게임",
+      "text": "다섯 상대 × 세 난이도, HP·콤보·재도전 구현"
+    },
+    {
+      "date": "09.24 · 공개",
+      "text": "게임·트레일러·제작 히스토리를 서로 연결"
+    },
+    {
+      "date": "09.25 · 업데이트",
+      "text": "세 챕터 · 열다섯 캐릭터 · 네 난이도 · 봇 모드"
+    },
+    {
+      "date": "09.29 · 기록",
+      "text": "55장 강연자료와 여섯 내장 영상, 진행 가이드 제작"
+    }
+  ],
+  "links": [
+    {
+      "label": "리듬 원정대 플레이",
+      "url": "https://suchan-rhythm-quest.socialkim.chatgpt.site/",
+      "access": "public"
+    },
+    {
+      "label": "전체 제작 히스토리",
+      "url": "https://suchan-rhythm-quest.socialkim.chatgpt.site/history",
+      "access": "public"
+    },
+    {
+      "label": "첫 이미지·영상 기록",
+      "url": "https://suchan-imagination-to-reality.socialkim.chatgpt.site/",
+      "access": "public"
+    },
+    {
+      "label": "60초 트레일러 페이지",
+      "url": "https://suchan-rhythm-quest.socialkim.chatgpt.site/trailer.html",
+      "access": "public"
+    }
+  ],
+  "media": [
+    "first-concept",
+    "first-film",
+    "extended-film",
+    "gameplay",
+    "trailer",
+    "rhythm-home",
+    "creation-history",
+    "meta-bot"
+  ],
+  "note": "32초·64초 영상은 애니메이션이다. 36초 영상은 실제 게임 엔진의 봇 리플레이다. 열다섯 엔딩은 이미지와 짧은 이야기이며 열다섯 애니메이션 영화라는 뜻은 아니다."
+}
